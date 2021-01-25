@@ -1,2 +1,3 @@
-# COVID Vaccine
- Automated Appointment Finder for COVID Vaccine
+# COVID Vaccine Appointment Finder
+
+ The website that organizes the COVID Vaccine appointments is located at https://www.rivcoph.org/COVID-19-Vaccine.  I developed the Automated Appointment Finder for COVID Vaccine because it was hard to get appointments.  The site used to deploy new appointments without notice so it was hard to grab an appointment.  Unfortunately (for my robot...), they now announce the times when they will be releasing new appointments which has made my program pretty much unusable.  It was still a fun project that helped me understand how to combine using selenium, flask, and chromedriver.
